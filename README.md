@@ -35,13 +35,13 @@ Enable the expected rules:
 
 ```json
   "rules": {
-    "artistco/injectintl": "error",
+    "artistco/use-injectintl": "error",
   }
 ```
 
 # List of supported rules
 
-* [react/artistco/injectintl](docs/rules/artistco/injectintl.md): Enforces consistent naming for boolean props
+* [artistco/injectintl](docs/rules/use-injectintl.md): Prevent missing injectIntl id react-intl is imported
 
 # License
 
